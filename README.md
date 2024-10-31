@@ -8,7 +8,7 @@ This repository contains data about GitHub users in Sydney with over 100 followe
 2. `repositories.csv`: Contains information about 32750 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
-## Data Collection
+## Key Highlights
 
 - Data collected using GitHub API
 - Date of collection: 2024-10-30
