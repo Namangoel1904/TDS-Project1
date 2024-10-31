@@ -15,9 +15,7 @@ This repository contains data about GitHub users in Sydney with over 100 followe
 - Only included users with 100+ followers
 - Up to 500 most recently pushed repositories per user
 
-# Data Scraping
-Utilized the GitHub API to gather data on users in Sydney with over 100 followers, capturing key user metrics and repository details.
-# Interesting Insight
-Surprisingly, over 60% of Sydney users with high follower counts are not actively contributing to public repositories.
-# Developer Recommendation
-Engaging more with public contributions could significantly enhance visibility and follower growth for Sydney-based developers.
+- **Data Scraping**: Utilized the GitHub API to gather data on users in Sydney with over 100 followers, capturing key user metrics and repository details.
+- **Interesting Insight**: Surprisingly, over 60% of Sydney users with high follower counts are not actively contributing to public repositories.
+- **Developer Recommendation**: Engaging more with public contributions could significantly enhance visibility and follower growth for Sydney-based developers.
+
