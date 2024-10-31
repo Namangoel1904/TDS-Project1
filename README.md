@@ -7,7 +7,7 @@ This repository contains data about GitHub users in Sydney with over 100 followe
 - **Interesting Insight**: Surprisingly, over 60% of Sydney users with high follower counts are not actively contributing to public repositories.
 - **Developer Recommendation**: Engaging more with public contributions could significantly enhance visibility and follower growth for Sydney-based developers.
 
-## Google Colab Notebook
+# Google Colab Notebook
 - Colab Notebook `TDS_Project.ipynb` Contains my code I used to scrap the required data using Github API and Personal access token
 - [Download the notebook here](https://drive.google.com/file/d/1NC89xnquI_SW57a02nbfNqrdKZyXbl9w/view?usp=sharing)
 
