@@ -8,8 +8,8 @@ This repository contains data about GitHub users in Sydney with over 100 followe
 - **Developer Recommendation**: Engaging more with public contributions could significantly enhance visibility and follower growth for Sydney-based developers.
 
 ## Google Colab Notebook
-- Colab Notebook `tds_project.py` Contains my code I used to scrap the required data using Github API and Personal access token
-- [Download the notebook here](https://drive.google.com/file/d/145V7ow0tn2eoUiVAfbYSyYDv3u8HIBaM/view?usp=sharing)
+- Colab Notebook `TDS_Project.py` Contains my code I used to scrap the required data using Github API and Personal access token
+- [Download the notebook here](https://drive.google.com/file/d/1NC89xnquI_SW57a02nbfNqrdKZyXbl9w/view?usp=sharing)
 
 ## Retrieved Data in Spreadsheets
 - `users.csv` [Download Users spreadsheet here](https://drive.google.com/file/d/16m5RtRamJlgj0DMjn75sBLvZpFhnyqlq/view?usp=sharing)
